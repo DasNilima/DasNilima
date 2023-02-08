@@ -1,7 +1,9 @@
 
 
 <h1 align="justify-content">Hi 👋, I'm Nilima Das</h1>
-A passionate full-stack software developer from the USA. I enjoy how creative and technical skills create software programs.I always love to engage myself with learning new things & take all things lightly & become confident whatever I beileve. 
+
+A passionate full-stack software developer from the USA. I enjoy how creative and technical skills create software programs.
+I always love to engage myself with learning new things & take all things lightly & become confident whatever I beileve. 
 
 
 <img align="right" alt="GIF" src="./assets/coding.gif" width="408" height="318" />
