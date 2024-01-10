@@ -3,15 +3,13 @@
 <h1 align="justify-content">Hi 👋, I'm Nilima Das</h1>
 
 A passionate full-stack software developer from the USA. I enjoy how creative and technical skills create software programs.
-I always love to engage myself with learning new things & take all things lightly & become confident whatever I beileve. 
+I always love to engage myself with learning new things & take all things lightly & become confident in whatever I believe. 
 
 
 <img align="right" alt="GIF" src="./assets/coding.gif" width="408" height="318" />
 
 
-- 🔭 I’m currently working on **personal project**
-
-- 🌱 I’m currently learning **Data Structure and Algorithms.**
+- 🔭 I’m currently working on **Remote Software Company** as a **FrontEnd Developer**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/DasNilima](https://github.com/DasNilima)
 
